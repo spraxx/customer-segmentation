@@ -1,3 +1,4 @@
+
 # Cash Classifiers: Grouping Customers, One Transaction at a Time
 This project aims to do a simples customer segmentation based bank transactions. Most banks have a large customer base - with different characteristics. Customer segmentation is the process of dividing a customer dataset into specific groups based on shared traits. Customer Segmentation will help buisiness learn about customers more deeply, in order to know how to market and sell their projects, which customers to invest in and how to improve the buisiness marketing techniques.
 
@@ -30,3 +31,9 @@ Machine Learning is extensively used in banking for tasks like credit risk asses
 
 ### What is the importance of Customer Segmentation in banking?
 Customer segmentation has been a key strategy in the banking sector, traditionally based on demographic factors like age, income, and location to classify customers. However, with the rise of big data and advanced analytics, these traditional approaches are being superseded by more advanced machine learning techniques. These new methods allow banks to process large datasets and reveal intricate patterns in customer behavior that were previously out of reach.
+
+## Data
+
+This is a dataset that I found in kaggle and can be found here: [Bank Customer Segmentation](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation).
+
+This dataset consists of 1 Million+ transaction by over 800K customers for a bank in India. The data contains information such as - customer age (DOB), location, gender, account balance at the time of the transaction, transaction details, transaction amount, etc.
